@@ -243,14 +243,8 @@ textarea {
 
 .home-hero {
   color: #fff;
-  background: radial-gradient(
-    circle at -8.9% 51.2%,
-    #bd7877 0%,
-    #bd7877 20%,
-    #ff3131 20%,
-    #ff3131 30%,
-    #fff 30%
-  );
+  background: #000;
+
   background-position: center;
   height: 100vh;
   min-height: 80rem;
