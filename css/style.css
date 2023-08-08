@@ -82,7 +82,10 @@ button {
 textarea {
   resize: none;
 }
-
+.jester {
+  width: 300px;
+  margin: 0 auto;
+}
 .heading-primary {
   font-size: 5rem;
   text-transform: uppercase;
